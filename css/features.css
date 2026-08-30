@@ -1,0 +1,27 @@
+#features h2 {
+    font-family: Roboto, sans-serif;
+    color: #2E2F42;
+}
+
+#features li {
+    list-style: none;
+}
+
+#features h3 {
+    font-family: Roboto, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+#features p {
+    font-family: Roboto, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size:  16px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
