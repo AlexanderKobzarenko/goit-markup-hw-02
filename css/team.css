@@ -1,38 +1,37 @@
-#team {
+.team {
     background-color: #F4F4FD;
 }
 
-#team li {
-    list-style: none;
+.team-item {
     background-color: #FFFFFF;
 }
 
-#team h2 {
+.team-title {
     font-family: Roboto, sans-serif;
     font-weight: 700;
     font-size: 36px;
-    line-height: 40px;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2E2F42;
 }
 
-#team h3 {
-    font-family:Roboto, sans-serif;
+.team-subtitle {
+    font-family: Roboto, sans-serif;
     font-weight: 500;
     font-size: 20px;
-    line-height: 24px;
+    line-height: 1.2;
     letter-spacing: 0.02em;
     text-align: center;
+    color: #2E2F42;
 }
 
-#team p {
-    font-size: Roboto, sans-serif;
+.team-text {
+    font-family: Roboto, sans-serif;
     font-weight: 400;
     font-size: 16px;
-    line-height: 24px;
+    line-height: 1.5;
     letter-spacing: 0.02em;
     text-align: center;
     color: #434455;
-    
 }
